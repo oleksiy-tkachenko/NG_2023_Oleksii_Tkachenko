@@ -1,0 +1,1 @@
+print(float(input("Write two numbers you want to add, separating each number with the Enter key press\nFirst number: ")) + float(input("Second number: ")))
